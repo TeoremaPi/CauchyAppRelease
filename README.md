@@ -1,1 +1,1 @@
-# CauchyApp and ReVisor release page
+# CauchyApp release page
